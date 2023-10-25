@@ -1,10 +1,12 @@
 
 1.)* What is Version Control System(V.C.S.)?
-     
+     git as a vcs(version contril system) is a  software tool that allows to keep track of changes made to your source code or any other files in a systematic & organised manner.
+it helps us to manage the history of changees and provide features like branching merging and conflict resolution.
 
 
 2.)* Why we need any Version Control System(v.C.S)?
-    
+To store the code in the central server safe and also in a systematic way, it also provides with features like history tracking ,colaboration ,backup and disaster recovery
+ ,branching and mergings ,tracebility , parallel development , and many more.
 
 
 3.)* What is the difference between SVN and Git?
